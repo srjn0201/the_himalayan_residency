@@ -1,0 +1,36 @@
+.nav{
+    /* border: 1px solid red; */
+    /* border-radius: 50px;
+    margin: 3px, 3px, 3px, 3px; */
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 100%;
+
+    /* border: 1px solid red; */
+}
+
+.links{
+    height: 100%;
+
+    width: 30%;
+    /* border: 1px solid red; */
+}
+.navBar{
+    height: 100%;
+
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.btn{
+    height: 100%;
+
+    /* border: 1px solid red; */
+}

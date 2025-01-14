@@ -1,0 +1,38 @@
+.homepage{
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+
+}
+
+.navbar{
+    height: 50px;
+    background-color: rgb(251, 254, 188);
+
+}
+
+
+.MainCard{
+    border: 1px solid black;
+    height: 70vh;
+}
+
+.Services{
+    border: 1px solid black;
+    height: 70vh;
+}
+
+.LookAround{
+    border: 1px solid black;
+    height: 70vh;
+}
+
+.Amanities{
+    border: 1px solid black;
+    height: 70vh;
+}
+
+.Foorter{
+    border: 1px solid black;
+    height: 30vh;
+}
